@@ -1,0 +1,14 @@
+:root {
+    --primary: #D87D4A;
+    --secondary: #101010;
+    --tritary: #F1F1F1;
+    --quaternary: #FAFAFA;
+    --primary-lighter: #FBAF85;
+}
+
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
